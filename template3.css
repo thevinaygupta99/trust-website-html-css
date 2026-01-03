@@ -4,7 +4,7 @@
 }
 /*style for navbar*/
 .navbar{
-  background-image: url(cutegirlimage.jpg);
+  background-image: url(cutegirl.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 350px;
@@ -156,7 +156,7 @@ table{
 	height: 200px;
 	width: 94%;
 	color: white;
-	gap: 50px;
+	gap: 90px;
 	align-content: center;
 	justify-items: center;
 	padding: 40px 40px 40px 40px;
@@ -164,4 +164,7 @@ table{
 .about ul{
 	list-style-type: none;
 	font-size: 20px;
+}
+.social{
+	height: 100px;
 }
